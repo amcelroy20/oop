@@ -3,8 +3,8 @@ import InsectClass as c
 
 def main():
 
-    mosquito = c.Insect()
-    housefly = c.Insect()
+    mosquito = c.Insect(2,4,'Mosquito')
+    housefly = c.Insect(2,4,'Housefly')
 
     print("Let's see how far they flew...")
 
