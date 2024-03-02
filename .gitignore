@@ -1,3 +1,7 @@
 .venv/
 *pycache*
 *.pyc*
+*Bank*
+calc_gross_pay.py
+*coin*
+*Coin*
